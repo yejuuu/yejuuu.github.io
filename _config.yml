@@ -1,18 +1,18 @@
-title:              "아이폰이 아니어도 괜찮아"
+title:              "저는 이렇게 찍습니다"
 tagline:            "갤럭시 카메라로 일상사진 촬영"
 email:              "hjkang0609@gmail.com"
-description:        "갤럭시로 아이폰만큼 감성넘치는 사진을 찍는 방법을 소개합니다"
-author:             "강혜주"
+description:        "갤럭시로 감성사진 건지기"
+author:             "gg"
 baseurl:            "/"
 url:                "https://yejuuu.github.io"
 locale:             "ko_KR"
 thumbnail:          "/img/main_thumbnail.png"
 
 # Social Profiles
-twitter_username:   twitter_username
-instagram_username: instagram_username
-facebook_username:  facebook_username
-linkedin_username:  linkedin_username
+
+# 블로그 disqus shortname
+disqus:
+  shortname: yejuuu-github-io
 
 # Build settings
 markdown:           kramdown
