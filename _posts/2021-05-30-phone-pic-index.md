@@ -3,7 +3,7 @@ layout: post
 permalink: /test-article/
 title: '[Index] 가볍게 봐주세요'
 date: 2021-05-30 14:30:00 +09:00
-feature: '/img/posts/01/post2_thumbnail.jpg'
+feature: '/img/posts/02/post2_thumbnail.jpg'
 categories:
   - phone-pic
 tags:
