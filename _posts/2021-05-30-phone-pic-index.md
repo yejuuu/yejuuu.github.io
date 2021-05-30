@@ -40,7 +40,7 @@ description: 추천 독자 및 포스팅 계획
 
 * 고배율 감성을 좋아하는 사람
 
-마지막 추천 독자가 읭스러울 수 있는데, 별 이유는 없다.
+마지막 추천 독자가 의외일 수 있는데, 별 이유는 없다.
 
 그냥 내가 요즘 고배율로 사진을 찍어서 그렇다.
 인스타를 눈팅만 하지만 인스타 감성에 알게 모르게 물든 것 같다.
@@ -62,11 +62,17 @@ description: 추천 독자 및 포스팅 계획
 (사실 썸네일 사진도 내가 찍은건 안비밀이다)
 
 ![이미지 1](/img/posts/02/photo1.jpg)
+
 ![이미지 2](/img/posts/02/photo2.jpg)
+
 ![이미지 3](/img/posts/02/photo3.jpg)
+
 ![이미지 4](/img/posts/02/photo4.jpg)
+
 ![이미지 5](/img/posts/02/photo5.jpg)
+
 ![이미지 6](/img/posts/02/photo6.jpg)
+
 ![이미지 7](/img/posts/02/photo7.jpg)
 
 -
