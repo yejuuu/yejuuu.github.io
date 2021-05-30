@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: /test-article/
+permalink: /pic-intro/
 title: '[Intro] 갤럭시가 어때서'
 date: 2021-05-27 14:30:00 +09:00
 feature: '/img/posts/01/post_thumbnail.jpg'

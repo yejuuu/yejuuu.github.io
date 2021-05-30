@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: /test-article/
+permalink: /pic-index/
 title: '[Index] 가볍게 봐주세요'
 date: 2021-05-30 14:30:00 +09:00
 feature: '/img/posts/02/post2_thumbnail.jpg'
