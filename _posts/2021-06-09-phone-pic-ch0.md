@@ -1,7 +1,7 @@
 ---
 layout: post
 permalink: /pic-ch0/
-title: '[Chapter 0] 보통 이런 기준으로 찍습니다'
+title: '[Chapter 0] 보통 이렇게 찍습니다'
 date: 2021-06-09 14:30:00 +09:00
 feature: '/img/posts/03/post3_thumbnail.jpg'
 categories:
@@ -46,7 +46,8 @@ description: 스마트폰으로 사진 찍을 때 개인적인 원칙
 
 애착이 가는 순간이라 그런지, 자연스레 더 공들여 찍고 더 잘나오는 것 같다.
 
-![이미지 1](/img/posts/02/photo1.jpg)
+![이미지 1](/img/posts/03/photo_1.jpg)
+> ###### 가게가 너무 귀여워서 냉큼 찍어버렸다!
 
 -
 
@@ -64,9 +65,13 @@ description: 스마트폰으로 사진 찍을 때 개인적인 원칙
 
 거기에 포커스를 두고, 없으면 전체적으로 분산시키는 경향이 있다.
 
-![이미지 2](/img/posts/02/photo2.jpg)
+![이미지 2](/img/posts/03/photo_2_1.jpg)
+> ###### ↑전체적으로 담은 경우
 
-![이미지 3](/img/posts/02/photo3.jpg)
+
+
+![이미지 3](/img/posts/03/photo_2_2.jpg)
+> ###### ↑하나에 집중한 경우
 
 -
 
@@ -88,9 +93,11 @@ description: 스마트폰으로 사진 찍을 때 개인적인 원칙
 
 초점 맞추려던 곳을 터치해서 초점 잡히는 것을 확인하고 찍는 것을 추천한다.
 
-![이미지 2](/img/posts/02/photo2.jpg)
+![이미지 2](/img/posts/03/photo_3_1.jpg)
+> ###### ↑수평의 중요성..
 
-![이미지 3](/img/posts/02/photo3.jpg)
+![이미지 3](/img/posts/03/photo_3_2.jpg)
+> ###### ↑초점의 중요성..
 
 -
 
